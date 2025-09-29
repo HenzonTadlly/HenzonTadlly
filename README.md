@@ -3,8 +3,14 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
     
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenzonTadlly/HenzonTadlly/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenzonTadlly/HenzonTadlly/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HenzonTadlly/HenzonTadlly/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
   Olá👋 ! Eu me chamo Henzon Tadlly, sou um Desenvolvedor Júnior.
   
 - 🔭 Eu estou Procurando a minha primeira Oportunidade de Trabalho na área da Programação, Tanto na área Do Front-End, quanto no Back-End.
