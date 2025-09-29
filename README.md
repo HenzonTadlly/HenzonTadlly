@@ -2,14 +2,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-    
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenzonTadlly/HenzonTadlly/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenzonTadlly/HenzonTadlly/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HenzonTadlly/HenzonTadlly/output/pacman-contribution-graph.svg">
-</picture>
 
-###
 
   Olá👋 ! Eu me chamo Henzon Tadlly, sou um Desenvolvedor Júnior.
   
